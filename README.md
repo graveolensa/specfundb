@@ -8,7 +8,7 @@ in the DLMF, the Atlas of Special Functions, Mathworld, Planetmath,
 and so on...
 
 goals:
-	hey, I'm using $SOMETHING, what's the syntax for 
+	-> hey, I'm using $SOMETHING, what's the syntax for 
 	the polylogarithm. Most of the time this means
 	lots of annoying web searches and digging through
 	documentation and whatnot. (let's make this easy)
