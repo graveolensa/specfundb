@@ -58,13 +58,42 @@ The Jacobi elliptic function sd(z,k)
 The Jacobi elliptic function ds(z,k)
 
 The Weierstrass p-function
+Eisenstein series
+
+Borwein cubic theta function a(q)
+Borwein cubic theta function b(q)
+Borwein cubic theta function c(q)
 
 Klein's absolute invariant j(tau)
 The Dedekind eta function eta(tau)
 
 
 The Riemann zeta function zeta(s)
+Hurwitz zeta function
 The Dirichlet eta function eta(s)
+The Dirichlet beta function
+The Dirichlet lambda function
+Lerch Transcendent
+multiple zeta functions
 
 pFq hypergeometric function
 a-phi-b q-hypergeometric functions
+Appell-Lauricella functions
+Kampe-de-Feriet generalized hypergeomtric function
+Meijer G-function
+
+
+Bessel function of the first kind
+Bessel function of the second kind
+Airy Ai function
+Airy Bi function
+Airy Gi function
+Airy Hi function
+Anger function
+Hankel function of the first kind
+Hankel function of the second kind
+jinc function
+Struve function
+
+
+Rogers-Ramanujan contined fraction R(q)
